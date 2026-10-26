@@ -8,7 +8,7 @@ HTTP service for checking URL availability.
 
 ## Technology stack
 
-- Go 1.25
+- Go 1.27.3
 
 ## Running
 

@@ -1,3 +1,3 @@
 module gitlab.com/ruslanty/url-checker
 
-go 1.25
+go 1.27.3
